@@ -1,0 +1,16 @@
+ACUERDO DE LICENCIA
+Divisor de PDF · INVIMA
+
+Copyright (c) 2026 Jeritas Software
+
+Este software ha sido desarrollado por Jeritas Software.
+Su uso está destinado a la gestión documental.
+
+Uso gratuito. Se permite usar y compartir el programa sin modificaciones.
+Queda prohibida su venta, su modificación o su distribución como parte de
+otro producto sin autorización.
+
+El software se entrega "tal cual", sin garantías.
+
+Este programa incluye componentes de terceros que se rigen por sus propias
+licencias; ver AVISOS_TERCEROS.txt.
