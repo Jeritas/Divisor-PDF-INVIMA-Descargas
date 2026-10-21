@@ -90,4 +90,4 @@ Copyright (c) 2026 **Jeritas Software**.
 
 Este software ha sido desarrollado por Jeritas Software. Su uso está destinado a la gestión documental. **Uso gratuito.** Se permite usar y compartir el programa sin modificaciones. Queda prohibida su venta, su modificación o su distribución como parte de otro producto sin autorización. El software se entrega "tal cual", sin garantías.
 
-Incluye componentes de terceros (Python, pikepdf/qpdf, Pillow, PDFium, lxml) bajo sus propias licencias; ver `AVISOS_TERCEROS.txt` en la carpeta de instalación.
+Incluye componentes de terceros (Python, pikepdf/qpdf, Pillow, PDFium, lxml) bajo sus propias licencias; ver [AVISOS_TERCEROS.txt](AVISOS_TERCEROS.txt), que también viene en la carpeta del programa.

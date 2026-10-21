@@ -1,0 +1,48 @@
+AVISOS DE COMPONENTES DE TERCEROS
+Divisor de PDF · INVIMA — Jeritas Software
+
+Este programa incluye los siguientes componentes de código abierto, cada uno
+distribuido bajo su propia licencia. Sus licencias completas se encuentran en
+la carpeta del programa: "python\LICENSE.txt" (Python) y las carpetas
+"*.dist-info\licenses" dentro de "python\Lib\site-packages" (librerías),
+y también en el sitio de cada proyecto.
+
+- Python 3.12 (python-build-standalone)
+  Licencia: Python Software Foundation License
+  https://www.python.org/ · https://github.com/astral-sh/python-build-standalone
+
+- pikepdf
+  Licencia: Mozilla Public License 2.0 (MPL-2.0)
+  Código fuente: https://github.com/pikepdf/pikepdf
+
+- qpdf (incluido en pikepdf)
+  Licencia: Apache License 2.0
+  https://github.com/qpdf/qpdf
+
+- Pillow
+  Licencia: MIT-CMU (HPND)
+  https://github.com/python-pillow/Pillow
+  Incluye libjpeg-turbo, OpenJPEG, libtiff, zlib, entre otras, bajo sus
+  respectivas licencias.
+
+- pypdfium2 / PDFium
+  Licencias: Apache License 2.0 / BSD-3-Clause
+  https://github.com/pypdfium2-team/pypdfium2 · https://pdfium.googlesource.com/pdfium/
+
+- lxml
+  Licencia: BSD-3-Clause
+  https://github.com/lxml/lxml
+
+- packaging
+  Licencias: Apache License 2.0 / BSD-2-Clause
+  https://github.com/pypa/packaging
+
+- Tcl/Tk (incluido con Python)
+  Licencia: estilo BSD (Tcl/Tk License)
+
+- Go (biblioteca estándar, incluida en DivisorPDF.exe y jbig2g.exe)
+  Licencia: BSD-3-Clause
+  Copyright (c) 2009 The Go Authors. All rights reserved.
+  https://go.dev/LICENSE
+
+El codificador JBIG2 (jbig2g) y el resto del programa son de Jeritas Software.
