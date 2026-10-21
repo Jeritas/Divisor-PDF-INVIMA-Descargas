@@ -28,7 +28,7 @@ La plataforma del INVIMA da un número de espacios para cargar la documentación
 - Tiene una **vista previa** para comparar la calidad antes de dividir.
 - No necesita Acrobat ni ningún otro programa.
 
-<p align="center"><img src="imagenes/programa.png" width="700" alt="Divisor de PDF · INVIMA"></p>
+<p align="center"><img src="imagenes/programa.png" width="760" alt="Divisor de PDF · INVIMA con el plan de corte de un expediente de ejemplo"></p>
 
 ## Instalación
 
@@ -58,9 +58,13 @@ Para que puedas confiar en el archivo:
 3. Pulsa **"Ver plan de corte"** para ver qué páginas van en cada parte, o **"Dividir PDF"** para hacerlo directamente.
 4. Las partes quedan en la carpeta **"Partes INVIMA"**, con nombres como `Documento_Parte_01_de_06.pdf`, junto con un resumen para Excel.
 
+Si el documento hay que reducirlo, antes de dividir puedes abrir la **vista previa** y comparar cada página original con como quedará, con zoom.
+
+<p align="center"><img src="imagenes/vista-previa.png" width="760" alt="Vista previa de calidad: página original y página reducida lado a lado"></p>
+
 **Consejo:** usa el PDF **original**. Si antes lo comprimes con otro programa, las imágenes se comprimen dos veces y pierden más calidad de la necesaria.
 
-<p align="center"><img src="imagenes/varios-documentos.png" width="640" alt="Varios documentos a la vez"></p>
+<p align="center"><img src="imagenes/varios-documentos.png" width="760" alt="Varios documentos divididos a la vez"></p>
 
 ## Preguntas frecuentes
 
@@ -70,7 +74,9 @@ Para que puedas confiar en el archivo:
 
 **¿Las firmas y los sellos se ven?** Sí. Cuando una página escaneada de texto pasa a blanco y negro, las zonas con color (firmas, sellos, logos) se conservan a color.
 
-<p align="center"><img src="imagenes/firma-a-color.png" width="360" alt="Firma conservada a color"></p>
+*Las imágenes de esta página usan un expediente de ejemplo con datos ficticios.*
+
+<p align="center"><img src="imagenes/firma-a-color.png" width="760" alt="Página en blanco y negro con la firma y el sello conservados a color"></p>
 
 **Al abrir una parte sale "la ruta no existe".** Windows y Acrobat no abren archivos cuya ruta completa pase de 260 caracteres, algo común en carpetas de SharePoint u OneDrive. El programa lo detecta antes de guardar y ofrece una carpeta corta.
 
